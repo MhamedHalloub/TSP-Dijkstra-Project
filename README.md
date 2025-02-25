@@ -37,7 +37,7 @@ You can edit it to test different cases.
 
 💡 Authors
 👤 @MohamedHalloub
-👤 @HayatAroubi
+👤 @HayatArroubi
 
 📢 Contributing
 Want to improve this project? Feel free to fork this repo and submit a pull request! 🚀
