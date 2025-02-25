@@ -29,3 +29,15 @@ python tsp_solver.py
 3️⃣ Modify Input Data
 The file graph_data.txt contains the city connections and distances.
 You can edit it to test different cases.
+
+📌 Future Improvements
+🔹 Implement heuristic approaches (e.g., Genetic Algorithm, Simulated Annealing)
+🔹 Optimize for large-scale datasets
+🔹 Add a Graphical User Interface (GUI)
+
+💡 Authors
+👤 @MohamedHalloub
+👤 @HayatAroubi
+
+📢 Contributing
+Want to improve this project? Feel free to fork this repo and submit a pull request! 🚀
